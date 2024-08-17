@@ -11,3 +11,5 @@ Explanation
 4. "service" for CRUD operation
 5. "controller" for REST API link handle
 6. "repository" add JPA repository interface that have all CRUD methods
+
+practice
